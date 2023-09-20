@@ -1,5 +1,5 @@
 # Dockerfile
-FROM python:3.8.2
+FROM python:3.12.0rc2
 
 WORKDIR /algoliasearch
 ADD . /algoliasearch/
